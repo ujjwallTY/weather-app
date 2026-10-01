@@ -20,10 +20,6 @@ A responsive weather application built using HTML, CSS, and JavaScript.
 - JavaScript
 - WeatherAPI
 
-## 📷 Screenshot
-
-(Add a screenshot here later)
-
 ## 👨‍💻 Author
 
 **Ujjawal Tyagi**# weather-app
