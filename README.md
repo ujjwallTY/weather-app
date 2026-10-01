@@ -1,26 +1,26 @@
-# 🌦️ Weather App
+# Weather App
 
 A responsive weather application built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+##  Features
 
-- 🔍 Search weather by city
-- 📍 Get weather using current location
-- 🌡️ Temperature
-- 💧 Humidity
-- 🌬️ Wind Speed
-- ☁️ Cloud Percentage
-- 🕒 Local Time
-- 🌤️ Weather Icons
+- Search weather by city
+- Get weather using current location
+- Temperature
+- Humidity
+- Wind Speed
+- Cloud Percentage
+- Local Time
+- Weather Icons
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - WeatherAPI
 
-## 👨‍💻 Author
+## Author
 
 **Ujjawal Tyagi**# weather-app
 A responsive weather application built using HTML, CSS, JavaScript and WeatherAPI.
